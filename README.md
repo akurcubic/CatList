@@ -15,8 +15,3 @@ Cat Breeds Explorer is a mobile application written in Kotlin using Jetpack Comp
 - **Networking:** Retrofit and OkHttp libraries for web service communication.
 - **Error Handling:** Implements loading and error states for better user experience.
 - **Data Serialization:** Kotlinx Serialization for data serialization.
-
-## Screenshots
-
-![Screenshot 1](url_to_screenshot1)
-![Screenshot 2](url_to_screenshot2)
